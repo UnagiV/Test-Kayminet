@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E367CB3F-E202-41A5-9BF8-5D315DA02670}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{E367CB3F-E202-41A5-9BF8-5D315DA02670}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="right" ID="{426838F1-801D-487F-B99A-8A9AC6089A8A}">
+					<ChildrenList>
+						<Action Name="" ID="{16E6279E-2D58-41D9-872E-E75C96F4E0D6}" ShortID="71543859">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="right_sound" ID="{7ADAF466-D255-40B6-9924-6031D42E1A2D}" WorkUnitID="{CADCB749-0CA0-4AB6-A494-12F6BC1C0B99}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="left" ID="{13EAA848-9F47-49B2-8577-E304BD3DC01A}">
+					<ChildrenList>
+						<Action Name="" ID="{F779370D-3F7F-4679-919A-00E3CF0A2095}" ShortID="957861137">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="left_sound" ID="{72C61014-706C-42DF-A42E-187B1F09FDE5}" WorkUnitID="{CADCB749-0CA0-4AB6-A494-12F6BC1C0B99}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

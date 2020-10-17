@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CADCB749-0CA0-4AB6-A494-12F6BC1C0B99}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{CADCB749-0CA0-4AB6-A494-12F6BC1C0B99}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="right_sound" ID="{7ADAF466-D255-40B6-9924-6031D42E1A2D}" ShortID="301992238">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{216B2F89-1BE2-45E6-893B-09A35C692323}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{BF73EAB8-DEE4-4F3D-B72F-F8EBE4AAF36C}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Science Fiction Sci-Fi Saber Light Saber Whoosh Short 01" ID="{7B38CDAD-913D-447D-9C21-34125500EAAF}">
+							<Language>SFX</Language>
+							<AudioFile>Science Fiction Sci-Fi Saber Light Saber Whoosh Short 01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="182489222"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Science Fiction Sci-Fi Saber Light Saber Whoosh Short 01" ID="{7B38CDAD-913D-447D-9C21-34125500EAAF}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="left_sound" ID="{72C61014-706C-42DF-A42E-187B1F09FDE5}" ShortID="176697799">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{216B2F89-1BE2-45E6-893B-09A35C692323}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{BF73EAB8-DEE4-4F3D-B72F-F8EBE4AAF36C}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Science Fiction Sci-Fi Electronic Zap 286" ID="{3D6883A4-63EB-4463-ACCA-3739A89E3DB4}">
+							<Language>SFX</Language>
+							<AudioFile>Science Fiction Sci-Fi Electronic Zap 286.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="21569535"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Science Fiction Sci-Fi Electronic Zap 286" ID="{3D6883A4-63EB-4463-ACCA-3739A89E3DB4}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

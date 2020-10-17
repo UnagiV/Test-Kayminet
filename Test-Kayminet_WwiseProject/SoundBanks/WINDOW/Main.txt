@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4109362	left			\Default Work Unit\left	
+	3893817417	right			\Default Work Unit\right	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	21569535	left_sound	Y:\Documents\GitHub\Test-Kayminet\Test-Kayminet_WwiseProject\.cache\Windows\SFX\Science Fiction Sci-Fi Electronic Zap 286_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\left_sound		51976
+	182489222	right_sound	Y:\Documents\GitHub\Test-Kayminet\Test-Kayminet_WwiseProject\.cache\Windows\SFX\Science Fiction Sci-Fi Saber Light Saber Whoosh Short 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\right_sound		81832
+
